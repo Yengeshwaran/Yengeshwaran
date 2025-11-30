@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm **Yengesh** — an ECE student passionate about building real-world AI solutions.<br><br>🚀 **What I’m Into**<br><br>* 🤖 AI/ML, Agentic Systems, On-Device LLMs<br>* 🛠 Python, Embedded Systems, Cloud, Automation<br>* 📚 Learning + experimenting with modern tech<br><br>🤝 **Open To**<br><br>* 💼 Internships<br>* 🧑‍💻 AI/agent development projects<br>* 🏆 Hackathons & open-source collabs<br><br>💡 **Interests**<br><br>* 🧠 Multi-Agent Systems<br>* 🔌 Agentic AI<br>* 📊 Data & Automation<br>* ☁️ Cloud/DevOps for ML<br><br>😄 **Fun Fact:** I’ve spent hours debugging only to find… an indentation error 😅
+👋 Hi, I'm **Yengesh** — an ECE student passionate about building real-world AI solutions.<br> <br>
+![](https://komarev.com/ghpvc/?username=Yengeshwaran)
+<br><br>🚀 **What I’m Into**<br><br>* 🤖 AI/ML, Agentic Systems, On-Device LLMs<br>* 🛠 Python, Embedded Systems, Cloud, Automation<br>* 📚 Learning + experimenting with modern tech<br><br>🤝 **Open To**<br><br>* 💼 Internships<br>* 🧑‍💻 AI/agent development projects<br>* 🏆 Hackathons & open-source collabs<br><br>💡 **Interests**<br><br>* 🧠 Multi-Agent Systems<br>* 🔌 Agentic AI<br>* 📊 Data & Automation<br>* ☁️ Cloud/DevOps for ML<br><br>😄 **Fun Fact:** I’ve spent hours debugging only to find… an indentation error 😅
 
 
 ## 🌐 Socials:
